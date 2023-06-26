@@ -24,7 +24,7 @@
     </style>
 </head>
 <body>
-<img src="photos/Screenshot_20230625_200042_com.instagram.android_edit_198211400141628.jpg"/>
+![alt tag](url de ton image)
 <h1>Nils Flores</h1>
 
 <p>Chanteur
