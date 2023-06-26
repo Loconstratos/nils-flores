@@ -1,0 +1,15 @@
+.social-shared{
+    display:flex;
+    align-items: center;
+    gap: 20px;
+}
+.social-icon{
+    display:list-item;
+    width: 30px;
+    height: 30px;
+}
+.social-icon img{
+object-fit: contain;
+width: 100%;
+height: 100%;
+}
